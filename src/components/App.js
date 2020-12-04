@@ -1,7 +1,8 @@
+import Header from './ui/Header';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"><Header></Header>
       Hello!
     </div>
   );
